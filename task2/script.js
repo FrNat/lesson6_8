@@ -14,5 +14,6 @@ alertF.addEventListener('click', () => {
 const promptF = document.querySelector('#promptF');
 
 promptF.addEventListener('click', () => {
-            prompt('Служит для вывода диалогового окна', 'Введите что-нибудь');
-            console.log('Ответ');
+    prompt('Служит для вывода диалогового окна', 'Введите текст');
+    console.log('Ответ');
+})

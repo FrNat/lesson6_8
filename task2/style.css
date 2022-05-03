@@ -1,4 +1,13 @@
-code {
-    color: rgb(38, 41, 231);
-    font-size: 16px;
-}
+    div {
+        width: 400px;
+        height: 100px;
+        margin: 25px;
+        text-align: center;
+        font-size: 18px;
+        color: rgb(11, 11, 11);
+    }
+    
+    code {
+        color: rgb(28, 128, 228);
+        font-size: 14px;
+    }
