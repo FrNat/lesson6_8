@@ -1,8 +1,8 @@
 const trafficLightEl = document.querySelector('#allEl');
 
-const greenEl = document.querySelector('green');
-const yellowEl = document.querySelector('yellow');
-const redEl = document.querySelector('red');
+const greenEl = document.querySelector('#green');
+const yellowEl = document.querySelector('#yellow');
+const redEl = document.querySelector('#red');
 
 function makeGreen() {
     greenEl.style.background = ('green');
